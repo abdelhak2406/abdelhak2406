@@ -1,8 +1,8 @@
 ### Hi there, I'm Abdelhak
 
-## 🔭 I'm a 21yo,  computer science student at University of Science and Technology Houari Boumediene, Algeria.
+## 🔭 I'm a 22yo,  computer science student at University of Science and Technology Houari Boumediene, Algeria.
 
-- 🌱 I’m currently learning Machine Learning and Deep Learning .
+- 🌱 I’m currently alive
 - 🥅 2021 Goals: Contribute more to Open Source projects, learn new stuff, work on bigger projects and volunteer.
 
 ---
