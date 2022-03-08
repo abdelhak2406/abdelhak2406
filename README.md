@@ -2,9 +2,12 @@
 
 ## 🔭 I'm a 22yo,  computer science student at University of Science and Technology Houari Boumediene, Algeria.
 
-- 🌱 I’m currently alive
-- 🥅 2021 Goals: Contribute more to Open Source projects, learn new stuff, work on bigger projects and volunteer.
-
+- 🌱 I’m currently alive and working on named entity recongnition nlp task!
+- 🥅 2022 Goals: 
+  - Contribute more to Open Source projects,
+  - Learn more about containerz and virtualization
+  - Work on bigger projects and volunteer.
+  - Make tutorials!
 ---
 
 
