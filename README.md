@@ -1,9 +1,9 @@
 ### Hi there, I'm Abdelhak
 
-## 🔭 I'm a 22yo,  computer science student at University of Science and Technology Houari Boumediene, Algeria.
+## 🔭 I'm a human!, computer science guy trying to learn cool stuff!
 
 - 🌱 I’m currently alive
-- 🥅 2022 Goals: 
+- 🥅 This year's Goals: 
   - Contribute more to Open Source projects,
   - Learn more about containerz and virtualization
   - Work on bigger projects and volunteer.
