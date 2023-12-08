@@ -1,13 +1,14 @@
-### Hi there, I'm Abdelhak
+# Hi there, I'm Abdelhak
 
-## 🔭 I'm a human!, computer science guy trying to learn cool stuff!
+## I'm a human!, computer science guy trying to learn cool stuff and contribute to Open tech!
 
 - 🌱 I’m currently alive
-- 🥅 This year's Goals: 
-  - Contribute more to Open Source projects,
-  - Learn more about containerz and virtualization
+- 🥅 Current Goals: 
+  - Contribute more to Open Source projects.
+  - Learn more about containers and virtualization.
   - Work on bigger projects and volunteer.
   - Make tutorials!
+  - Keep in touch with all the cool ai initiatives especially the OPEN ones.
 ---
 
 
