@@ -10,7 +10,7 @@
   - Make tutorials!
   - Keep in touch with all the cool ai initiatives especially the OPEN ones.
 ---
-
+PS: am not very active on GitHub i prefer other plateforms (sourcehut for example)
 
 <details>
   <summary>:zap: GitHub Stats</summary>
